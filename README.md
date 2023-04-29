@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed.</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Malik.</h1>
 <h3 align="center">A Dude Tryna Code from United Arab Emirates</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddaayy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddaayy" /> </p>
