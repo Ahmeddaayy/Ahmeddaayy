@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Ethical Hacking, Cyber Security**
 
-- 📫 How to reach me **malikahmedali6969@gmail.com**
+- 📫 How to reach me **ahmeddaayyy@gmail.com**
 
 - ⚡ Fun fact **I Am Friendly & Funny**
 
